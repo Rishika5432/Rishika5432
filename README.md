@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishika Gupta </h1>
 <h3 align="center">A passionate Linux Administrator & Developer from India</h3>
+- 🔭 I’m currently working on **Cloud|DevOps|LINUX|VMWare**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishika5432&label=Profile%20views&color=0e75b6&style=flat" alt="rishika5432" /> </p>
 
@@ -25,20 +26,13 @@
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
   </a>
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
-  </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
+  
+  
  </p>
   
 ### CSPs
   
  <p float="left">
-  <a href="https://bit.ly/2W7a91W" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
@@ -53,9 +47,7 @@
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
-  </a>
+ 
 </p>
 
 ### Databases
@@ -64,19 +56,13 @@
   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
   </a>
-  <a href="https://www.timescale.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" >
+  
+<a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **Cloud|DevOps|LINUX|VMWare**
 
-- 🌱 I’m currently learning **Terraform, Ansible**
-
-- 💬 Ask me about **LINUX, Shell Scripting, Docker, Kubernetes, Ansible, Jenkins, AWS, AZURE, GitHub, Grafana, Prometheus**
 
 - 📫 How to reach me **rishikag545@gmail.com**
 
